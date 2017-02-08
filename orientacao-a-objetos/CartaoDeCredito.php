@@ -1,6 +1,6 @@
 <?php
 
-require_once('Cliente2.php');
+require_once('Cliente.php');
 
 class CartaoDeCredito {
 
