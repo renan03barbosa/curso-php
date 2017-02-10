@@ -2,7 +2,7 @@
 
 require_once 'Funcionario.php';
 
-Class Secretario extends Funcionario{
+Class Secretaria extends Funcionario{
 
   public $ramal;
 }
